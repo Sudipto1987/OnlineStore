@@ -15,5 +15,6 @@ public interface ProductDao {
 	public List<Product> findById(int theId);
 	public void save(Product product);
 	public void deleteById(int theId);
+	//test
 
 }
